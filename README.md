@@ -6,7 +6,6 @@ This repository contains the curriculum materials used for the Intelligent Contr
 # Model-Reference-Adaptive-Control-
 Wing rock control in delta wing aircraft through Model Reference Adaptive Control (MRAC), aiming to match the system with an ideal reference model despite unknown dynamics. It involves developing nominal and reference models, estimating uncertainty, and simulating controllers.
 This is a modified version of the work: https://www.mathworks.com/help/slcontrol/ug/model-reference-adaptive-control-of-aircraft-undergoing-wing-rock.html
-
 ![image](https://github.com/ClaudiaYasar/Model-Reference-Adaptive-Control-/assets/132692602/98e36589-a34f-4791-afda-691f00a8f10f)
 
 # Acknowledgements
